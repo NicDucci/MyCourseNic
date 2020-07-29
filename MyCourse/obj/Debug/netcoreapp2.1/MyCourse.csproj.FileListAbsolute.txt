@@ -1,0 +1,16 @@
+C:\Users\devni\source\repos\MyCourse\MyCourse\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\devni\source\repos\MyCourse\MyCourse\bin\Debug\netcoreapp2.1\MyCourse.deps.json
+C:\Users\devni\source\repos\MyCourse\MyCourse\bin\Debug\netcoreapp2.1\MyCourse.runtimeconfig.json
+C:\Users\devni\source\repos\MyCourse\MyCourse\bin\Debug\netcoreapp2.1\MyCourse.runtimeconfig.dev.json
+C:\Users\devni\source\repos\MyCourse\MyCourse\bin\Debug\netcoreapp2.1\MyCourse.dll
+C:\Users\devni\source\repos\MyCourse\MyCourse\bin\Debug\netcoreapp2.1\MyCourse.pdb
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.csprojAssemblyReference.cache
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.AssemblyInfoInputs.cache
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.AssemblyInfo.cs
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.RazorAssemblyInfo.cache
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.RazorAssemblyInfo.cs
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.RazorTargetAssemblyInfo.cache
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.dll
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.pdb
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.genruntimeconfig.cache
+C:\Users\devni\source\repos\MyCourse\MyCourse\obj\Debug\netcoreapp2.1\MyCourse.csproj.CoreCompileInputs.cache
