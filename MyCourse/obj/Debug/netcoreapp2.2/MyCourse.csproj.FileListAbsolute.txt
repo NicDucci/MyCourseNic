@@ -23,3 +23,7 @@ C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\bin\Debug\netco
 C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.csproj.CoreCompileInputs.cache
 C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.Views.pdb
 C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.csproj.CopyComplete
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Detail.cshtml.g.cs
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\Razor\Views\Courses\Search.cshtml.g.cs
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
