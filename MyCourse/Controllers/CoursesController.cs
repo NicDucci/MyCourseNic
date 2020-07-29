@@ -20,12 +20,12 @@ namespace MyCourse.Controllers
 
         public IActionResult Detail(string id)
         {
-            return Content($"Sono Detail, ho ricevuto l'Id {id}.");
+            return View();
         }
 
         public IActionResult Search(string title)
         {
-            return Content($"Sono Search, hai cercato il corso {title}.");
+            return View();
         }
     }
 }
