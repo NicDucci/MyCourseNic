@@ -17,5 +17,10 @@ namespace MyCourse.Controllers
         {
             return Content($"Sono Detail, ho ricevuto l'Id {id}.");
         }
+
+        public IActionResult Search(string title)
+        {
+            return Content($"Sono Search, hai cercato il corso {title}.");
+        }
     }
 }

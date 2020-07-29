@@ -1,0 +1,16 @@
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\bin\Debug\netcoreapp2.2\MyCourse.deps.json
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\bin\Debug\netcoreapp2.2\MyCourse.runtimeconfig.json
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\bin\Debug\netcoreapp2.2\MyCourse.runtimeconfig.dev.json
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\bin\Debug\netcoreapp2.2\MyCourse.dll
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\bin\Debug\netcoreapp2.2\MyCourse.pdb
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.csprojAssemblyReference.cache
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.AssemblyInfoInputs.cache
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.AssemblyInfo.cs
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.csproj.CoreCompileInputs.cache
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.RazorAssemblyInfo.cache
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.RazorAssemblyInfo.cs
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.RazorTargetAssemblyInfo.cache
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.dll
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.pdb
+C:\Users\devni\Source\Repos\NicSSL\MyCourseNic\MyCourse\MyCourse\obj\Debug\netcoreapp2.2\MyCourse.genruntimeconfig.cache
